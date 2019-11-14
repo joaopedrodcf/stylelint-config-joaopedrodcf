@@ -1,0 +1,14 @@
+module.exports = {
+    "processors": [
+        "stylelint-processor-styled-components"
+    ],
+    "extends": [
+        "stylelint-config-rational-order",
+        "stylelint-config-styled-components"
+    ],
+    "rules": {
+        "color-named": "never",
+        "indentation": 4,
+        "color-hex-length": "long"
+    }
+};
