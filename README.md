@@ -1,7 +1,7 @@
-# eslint-config-joaopedrodcf
-Eslint configs to use through my projects
+# stylelint-config-joaopedrodcf
+Stylelint configs to use through my projects
 
-[![npm version](https://badge.fury.io/js/eslint-config-joaopedrodcf.svg)](https://badge.fury.io/js/eslint-config-joaopedrodcf)
+[![npm version](https://badge.fury.io/js/stylelint-config-joaopedrodcf.svg)](https://badge.fury.io/js/stylelint-config-joaopedrodcf)
 
 ## Getting Started
 
@@ -9,21 +9,19 @@ Eslint configs to use through my projects
 
 Yarn
 ```
-yarn add --dev eslint eslint-config-joaopedrodcf
+yarn add --dev stylelint stylelint-config-joaopedrodcf
 ```
 
 Npm
 ```
-npm install --save-dev eslint eslint-config-joaopedrodcf
+npm install --save-dev stylelint stylelint-config-joaopedrodcf
 ```
 
-- Now create a file named: .eslintrc and insert this
+- Now create a file named: .stylelintrc and insert this
 
 ```json
 {
-    "extends": [
-        "joaopedrodcf"
-    ]
+  "extends": "stylelint-config-joaopedrodcf"
 }
 ```
 
