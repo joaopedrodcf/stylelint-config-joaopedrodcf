@@ -1,6 +1,6 @@
 {
     "name": "stylelint-config-joaopedrodcf",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Stylelint configs to use throught my projects",
     "main": "src/index.js",
     "repository": "https://github.com/joaopedrodcf/stylelint-config-joaopedrodcf.git",
