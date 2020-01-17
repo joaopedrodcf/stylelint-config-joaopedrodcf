@@ -23,6 +23,6 @@
     "devDependencies": {
         "stylelint": "^13.0.0",
         "prettier": "^1.19.1",
-        "prettier-config-joaopedrodcf": "^1.0.10"
+        "prettier-config-joaopedrodcf": "^1.0.11"
     }
 }
